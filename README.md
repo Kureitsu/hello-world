@@ -1,2 +1,6 @@
 # hello-world
-Hello World
+Heyyy, 
+
+This is Tutorial for Github, so don't bother with this.
+
+--Kureitsu
